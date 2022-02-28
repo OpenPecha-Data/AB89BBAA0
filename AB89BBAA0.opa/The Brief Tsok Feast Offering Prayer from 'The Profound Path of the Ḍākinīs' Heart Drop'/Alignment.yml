@@ -1,0 +1,33 @@
+segment_sources:
+  PFFEAFDE8:
+    type: origin_type
+    relation: translation
+    language: en
+  PEB43B68D:
+    type: origin_type
+    relation: translation
+    language: de
+  PE8745A32:
+    type: origin_type
+    relation: translation
+    language: fr
+  P5BB5C91C:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  4c6c965511b940d98ba8b4612404e81c:
+    PFFEAFDE8: 49efd736cdb34ad4acd63d079e9afbcd
+    PEB43B68D: df1ce96d64f44fcdb8b15ab8a00fb061
+    PE8745A32: 9ef6a66e3a8f479b8713ef3822276269
+    P5BB5C91C: 62f959dca30e435a85ada5a0ea42ea1c
+  8ecab7ea5a09447ea9f4bea914ef3eeb:
+    PFFEAFDE8: 5b41a72562494c06a8181bd772d168f5
+    PEB43B68D: e218d4d8da5c45c6b1331b2fbe6a5d3f
+    PE8745A32: da10cf0517684faeacd48a94b5f46097
+    P5BB5C91C: 3b689654636f493f9b6185702bb5beb0
+  0700780f7aa9481985e0e0a409ea8092:
+    PFFEAFDE8: 5673bd2a2e9b4618843a35a631f9d716
+    PEB43B68D: a47b5e69e661464a9233bfbd7d248970
+    PE8745A32: 91b06108d777419cb03be0ecbbbe0313
+    P5BB5C91C: ab7f653c04a6487fb82d52e56b25d3c9

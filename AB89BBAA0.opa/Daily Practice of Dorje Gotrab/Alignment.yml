@@ -1,0 +1,19 @@
+segment_sources:
+  PFFEAFDE8:
+    type: origin_type
+    relation: translation
+    language: en
+  P5BB5C91C:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  64e3c53c29ad4db6891ae15a7f804060:
+    PFFEAFDE8: 9e4155da864348728afb94328782e7a8
+    P5BB5C91C: 0131ee5cf5a54ed2b1ab6d33e064561a
+  da42f320759c45499d045b6065f6ecc6:
+    PFFEAFDE8: 501942a8e8094eb781927e191e4d0ba8
+    P5BB5C91C: 5fac4f8d21c54cfa988b91aa49f05744
+  f36ab26357964c538409559e901c694c:
+    PFFEAFDE8: ec1fd1328a7b438e88fe76a30b8f99d4
+    P5BB5C91C: 9ba1fdf98e7b46d2a1477fc91ca3e7ed
